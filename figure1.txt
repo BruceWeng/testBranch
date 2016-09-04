@@ -1,1 +1,2 @@
 'This is figure1 from user1.'
+'This is second commit after moving directory.'
